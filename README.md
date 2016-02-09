@@ -35,6 +35,8 @@ Or install it yourself as:
 - [moromi-apns-aws_sns_adapter](https://github.com/moromi/moromi-apns-aws_sns_adapter)  
 [![Latest Version](https://img.shields.io/gem/v/moromi-apns-aws_sns_adapter.svg)](http://rubygems.org/gems/moromi-apns-aws_sns_adapter)
 
+- [moromi-error](https://github.com/moromi/moromi-error)  
+[![Latest Version](https://img.shields.io/gem/v/moromi-error.svg)](http://rubygems.org/gems/moromi-error)
 
 ## Development
 
