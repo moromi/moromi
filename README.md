@@ -1,4 +1,8 @@
 # Moromi
+
+[![Latest Version](https://img.shields.io/gem/v/moromi.svg)](http://rubygems.org/gems/moromi)
+[![Circle CI](https://circleci.com/gh/moromi/moromi.svg?style=svg)](https://circleci.com/gh/moromi/moromi)
+
 Framework for my Rails projects.
 
 ## Installation
