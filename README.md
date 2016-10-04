@@ -21,6 +21,21 @@ Or install it yourself as:
 
     $ gem install moromi
 
+## Moromi gems
+
+- [moromi](https://github.com/moromi/moromi)  
+[![Latest Version](https://img.shields.io/gem/v/moromi.svg)](http://rubygems.org/gems/moromi)
+
+- [moromi-apns](https://github.com/moromi/moromi-apns)  
+[![Latest Version](https://img.shields.io/gem/v/moromi-apns.svg)](http://rubygems.org/gems/moromi-apns)
+
+- [moromi-aws-sns](https://github.com/moromi/moromi-aws-sns)  
+[![Latest Version](https://img.shields.io/gem/v/moromi-aws-sns.svg)](http://rubygems.org/gems/moromi-aws-sns)
+
+- [moromi-apns-aws_sns_adapter](https://github.com/moromi/moromi-apns-aws_sns_adapter)  
+[![Latest Version](https://img.shields.io/gem/v/moromi-apns-aws_sns_adapter.svg)](http://rubygems.org/gems/moromi-apns-aws_sns_adapter)
+
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
