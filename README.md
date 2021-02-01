@@ -1,7 +1,7 @@
 # Moromi
 
 [![Latest Version](https://img.shields.io/gem/v/moromi.svg)](http://rubygems.org/gems/moromi)
-[![Circle CI](https://circleci.com/gh/moromi/moromi.svg?style=svg)](https://circleci.com/gh/moromi/moromi)
+[![Build Status](https://github.com/moromi/moromi/workflows/Ruby/badge.svg)](https://github.com/moromi/moromi/actions)
 
 Framework for my Rails projects.
 
